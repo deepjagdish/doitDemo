@@ -45,11 +45,7 @@
   			<artifactId>spring-metrics</artifactId>
   			<version>1.0</version>
 		</dependency>
-		<dependency>
-  			<group>io.prometheus</group>
-  			<artifact>simpleclient_common</artifact>
-  			<version>1.1</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
